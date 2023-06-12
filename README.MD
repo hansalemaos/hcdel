@@ -1,5 +1,7 @@
 # Deletes files (hardcore mode - Windows only)
 
+## pip install hcdel
+
 ### Recursive deletion: 
 
 The function can recursively delete files and directories, ensuring that
